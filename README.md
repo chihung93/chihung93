@@ -2,7 +2,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Xin Chào.or("Hello"), nice to see you.</h1>
 
 
-<p>Welcome to my 🏰! </br> I'm Henry, Mobile developer from <img src="https://image.flaticon.com/icons/svg/197/197473.svg" width="13"/> <b>Sai Gon.or("Ho Chi Minh"), VietNam</b>.
+<p>Welcome to my 🏰! </br> I'm Henry - mobile developer from <img src="https://image.flaticon.com/icons/svg/197/197473.svg" width="13"/> <b>Sai Gon.or("Ho Chi Minh"), VietNam</b>. 
+
+<h3>What I really love about</h3>
+<ul>
+<li> 🍿, 🎸🤘🎼🎵 and especially  🍳, 🚗🏕. </li>
+  <li>Contribute to open source community.</li>
+  <li>Clean code, Software Architecture, Software Design.</li>
+</ul>
 <h3>Things I code with</h3>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -25,6 +32,9 @@
 <ul>
 <li>Nuôi Em http://www.nuoiem.com/ </li>
 <li>Travel every year for yourself.</li>
+<li>Learn English.</li>
+  <li>Online courses.</li>
+  <li>Learn 🇬🇧.</li>
 <li>....</li>
 </ul>
 
