@@ -37,6 +37,16 @@
   <li>Learn 🇬🇧.</li>
 <li>....</li>
 </ul>
+</br>
+<h3>🙌 Will We keep in touch?</h3>
+<p> Have you seen Big Fish and Forrest Gump?. These are my favorite movies.</p>
+<ul>
+  <li><a href="https://www.imdb.com/title/tt0109830/" target="_blank"> Forrest Gump (1994) </a> catch me constantly striving for more—more money, more strong, more happy, more enjoy my life.</li>
+<li> <a href="https://www.imdb.com/title/tt0319061/" target="_blank"> Big Fish (2003) </a> helps me to re-write my sad stories to interesting stories with happy ending.</li>
+</ul>
+<p><img width="200" src="https://i.guim.co.uk/img/media/78eb1f6bd0f92d4d3cf19f5bddda1a902e2a6fcd/0_95_2371_1422/master/2371.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=4b18b0ace0dfc010f3a2fba9aa797665" /> 
+<img width="200" src="https://nightowlirene.files.wordpress.com/2019/12/1_tgcopp__ss8j04pzrpwhaq.jpeg?w=420" /> </p>
+
 
 <h3>Sai Gon <img src="https://image.flaticon.com/icons/svg/197/197473.svg" width="13"/> Vietnam!</h3>
 <p><img width="200" src="https://instagram.fsgn2-6.fna.fbcdn.net/v/t51.2885-15/e35/29090878_2003795109890160_873662151200342016_n.jpg?_nc_ht=instagram.fsgn2-6.fna.fbcdn.net&_nc_cat=100&_nc_ohc=pls171xLMPsAX8tPtSw&oh=51e3132df2eb8948b87c9d6955e5b9d6&oe=5F77E8D3" /> 
