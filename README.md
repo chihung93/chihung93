@@ -32,8 +32,7 @@
 <ul>
 <li>Nuôi Em http://www.nuoiem.com/ </li>
 <li>Travel every year for yourself.</li>
-<li>Learn English.</li>
-  <li>Online courses.</li>
+  <li>Learn Online courses.</li>
   <li>Learn 🇬🇧.</li>
 <li>....</li>
 </ul>
