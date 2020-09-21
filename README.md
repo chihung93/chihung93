@@ -31,7 +31,7 @@
 <h3>❤️  Funding</h3>
 <ul>
 <li>Nuôi Em http://www.nuoiem.com/ </li>
-<li>Travel every year for yourself.</li>
+<li>Travel every year for myself.</li>
   <li>Learn Online courses.</li>
   <li>Learn 🇬🇧.</li>
 <li>....</li>
