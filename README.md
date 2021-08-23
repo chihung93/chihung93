@@ -57,8 +57,6 @@
 
 <h3>🍺How to reach me</h3>
 <p><a href="https://github.com/chihung93" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/henry-nguyen-7140a414b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
 
 ## &#x1f4c8; My GitHub Stats
 
