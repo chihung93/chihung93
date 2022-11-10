@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Xin Chào.or("Hello"), nice to see you.</h1>
 
 
-<p>Welcome to my 🏰! </br> I'm Henry - mobile developer from <img src="https://image.flaticon.com/icons/svg/197/197473.svg" width="13"/> <b>Sai Gon.or("Ho Chi Minh"), VietNam</b>. 
+<p>Welcome to my 🏰! </br> I'm Henry - mobile developer from 🇻🇳 <b>Sai Gon.or("Ho Chi Minh"), VietNam</b>. 
 
 <h3>What I really love about</h3>
 <ul>
@@ -47,7 +47,7 @@
 <img width="200" src="https://nightowlirene.files.wordpress.com/2019/12/1_tgcopp__ss8j04pzrpwhaq.jpeg?w=420" /> </p>
 
 
-<h3>Sai Gon <img src="https://image.flaticon.com/icons/svg/197/197473.svg" width="13"/> Vietnam!</h3>
+<h3>Sai Gon 🇻🇳 Vietnam!</h3>
 <p>
 <img width="200" src="https://i.imgur.com/jC7LZ6Y.jpg" /></a>
 <img width="200" src="https://i.imgur.com/nDGA704.jpg" /></a>
