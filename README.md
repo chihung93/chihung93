@@ -60,9 +60,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihung93&layout=compact&hide=html&theme=dracula" alt="chihung93" />
-</a>
 
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chihung93&show_icons=true&theme=dracula" alt="chihung93"  />
